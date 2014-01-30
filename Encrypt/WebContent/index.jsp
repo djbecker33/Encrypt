@@ -7,6 +7,6 @@
 <title>Encrypt Page</title>
 </head>
 <body>
-
+Enter your string of text:
 </body>
 </html>
